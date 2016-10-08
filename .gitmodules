@@ -1,0 +1,3 @@
+[submodule "starviewer"]
+	path = starviewer
+	url = https://github.com/obrown/starviewer
